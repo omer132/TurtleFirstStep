@@ -2,7 +2,7 @@ import turtle
 
 screen=turtle.Screen()
 screen.bgcolor("pink")
-screen.title("python projectgiti init")
+screen.title("python project")
 
 x=turtle.Turtle()
 
